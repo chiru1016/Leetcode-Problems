@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/chiru1016/Leet-code-Problems/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/chiru1016/Leet-code-Problems/tree/master/0058-length-of-last-word) |
 ## Array
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/chiru1016/Leet-code-Problems/tree/master/0012-integer-to-roman) |
 | [1655-distribute-repeating-integers](https://github.com/chiru1016/Leet-code-Problems/tree/master/1655-distribute-repeating-integers) |
 ## Dynamic Programming
 |  |
@@ -88,5 +90,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/chiru1016/Leet-code-Problems/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/chiru1016/Leet-code-Problems/tree/master/0012-integer-to-roman) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/chiru1016/Leet-code-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
