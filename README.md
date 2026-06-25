@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1655-distribute-repeating-integers](https://github.com/chiru1016/Leet-code-Problems/tree/master/1655-distribute-repeating-integers) |
 | [1732-find-the-highest-altitude](https://github.com/chiru1016/Leet-code-Problems/tree/master/1732-find-the-highest-altitude) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chiru1016/Leet-code-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2574-left-and-right-sum-differences](https://github.com/chiru1016/Leet-code-Problems/tree/master/2574-left-and-right-sum-differences) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/chiru1016/Leet-code-Problems/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/chiru1016/Leet-code-Problems/tree/master/2574-left-and-right-sum-differences) |
 ## Math
 |  |
 | ------- |
