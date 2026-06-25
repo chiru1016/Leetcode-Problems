@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/chiru1016/Leet-code-Problems/tree/master/0200-number-of-islands) |
 | [1655-distribute-repeating-integers](https://github.com/chiru1016/Leet-code-Problems/tree/master/1655-distribute-repeating-integers) |
 | [1732-find-the-highest-altitude](https://github.com/chiru1016/Leet-code-Problems/tree/master/1732-find-the-highest-altitude) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/chiru1016/Leet-code-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chiru1016/Leet-code-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/chiru1016/Leet-code-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/chiru1016/Leet-code-Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/chiru1016/Leet-code-Problems/tree/master/0012-integer-to-roman) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/chiru1016/Leet-code-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/chiru1016/Leet-code-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
