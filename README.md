@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chiru1016/Leet-code-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/chiru1016/Leet-code-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chiru1016/Leet-code-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0200-number-of-islands](https://github.com/chiru1016/Leet-code-Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/chiru1016/Leet-code-Problems/tree/master/0695-max-area-of-island) |
 | [1655-distribute-repeating-integers](https://github.com/chiru1016/Leet-code-Problems/tree/master/1655-distribute-repeating-integers) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chiru1016/Leet-code-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chiru1016/Leet-code-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chiru1016/Leet-code-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
