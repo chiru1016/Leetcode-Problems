@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chiru1016/Leet-code-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chiru1016/Leet-code-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/chiru1016/Leet-code-Problems/tree/master/0200-number-of-islands) |
+| [0283-move-zeroes](https://github.com/chiru1016/Leet-code-Problems/tree/master/0283-move-zeroes) |
 | [0695-max-area-of-island](https://github.com/chiru1016/Leet-code-Problems/tree/master/0695-max-area-of-island) |
 | [1655-distribute-repeating-integers](https://github.com/chiru1016/Leet-code-Problems/tree/master/1655-distribute-repeating-integers) |
 | [1732-find-the-highest-altitude](https://github.com/chiru1016/Leet-code-Problems/tree/master/1732-find-the-highest-altitude) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chiru1016/Leet-code-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chiru1016/Leet-code-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chiru1016/Leet-code-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0283-move-zeroes](https://github.com/chiru1016/Leet-code-Problems/tree/master/0283-move-zeroes) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chiru1016/Leet-code-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
