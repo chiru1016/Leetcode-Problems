@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/chiru1016/Leet-code-Problems/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/chiru1016/Leet-code-Problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/chiru1016/Leet-code-Problems/tree/master/0058-length-of-last-word) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chiru1016/Leet-code-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/chiru1016/Leet-code-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/chiru1016/Leet-code-Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chiru1016/Leet-code-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chiru1016/Leet-code-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chiru1016/Leet-code-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chiru1016/Leet-code-Problems/tree/master/0021-merge-two-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/chiru1016/Leet-code-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
