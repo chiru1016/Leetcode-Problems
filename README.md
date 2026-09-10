@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/chiru1016/Leet-code-Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/chiru1016/Leet-code-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/chiru1016/Leet-code-Problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/chiru1016/Leet-code-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/chiru1016/Leet-code-Problems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/chiru1016/Leet-code-Problems/tree/master/0242-valid-anagram) |
 ## Array
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/chiru1016/Leet-code-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/chiru1016/Leet-code-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chiru1016/Leet-code-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/chiru1016/Leet-code-Problems/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chiru1016/Leet-code-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chiru1016/Leet-code-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/chiru1016/Leet-code-Problems/tree/master/0200-number-of-islands) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chiru1016/Leet-code-Problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/chiru1016/Leet-code-Problems/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/chiru1016/Leet-code-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/chiru1016/Leet-code-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chiru1016/Leet-code-Problems/tree/master/0242-valid-anagram) |
 | [1655-distribute-repeating-integers](https://github.com/chiru1016/Leet-code-Problems/tree/master/1655-distribute-repeating-integers) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/chiru1016/Leet-code-Problems/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/chiru1016/Leet-code-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/chiru1016/Leet-code-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chiru1016/Leet-code-Problems/tree/master/0242-valid-anagram) |
 ## Stack
