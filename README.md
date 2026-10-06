@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/chiru1016/Leet-code-Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/chiru1016/Leet-code-Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chiru1016/Leet-code-Problems/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/chiru1016/Leet-code-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0695-max-area-of-island](https://github.com/chiru1016/Leet-code-Problems/tree/master/0695-max-area-of-island) |
 | [1655-distribute-repeating-integers](https://github.com/chiru1016/Leet-code-Problems/tree/master/1655-distribute-repeating-integers) |
 | [1732-find-the-highest-altitude](https://github.com/chiru1016/Leet-code-Problems/tree/master/1732-find-the-highest-altitude) |
@@ -156,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chiru1016/Leet-code-Problems/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/chiru1016/Leet-code-Problems/tree/master/0334-increasing-triplet-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/chiru1016/Leet-code-Problems/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
