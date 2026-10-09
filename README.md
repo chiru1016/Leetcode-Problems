@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/chiru1016/Leet-code-Problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/chiru1016/Leet-code-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0695-max-area-of-island](https://github.com/chiru1016/Leet-code-Problems/tree/master/0695-max-area-of-island) |
+| [1480-running-sum-of-1d-array](https://github.com/chiru1016/Leet-code-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1655-distribute-repeating-integers](https://github.com/chiru1016/Leet-code-Problems/tree/master/1655-distribute-repeating-integers) |
 | [1732-find-the-highest-altitude](https://github.com/chiru1016/Leet-code-Problems/tree/master/1732-find-the-highest-altitude) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chiru1016/Leet-code-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/chiru1016/Leet-code-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/chiru1016/Leet-code-Problems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/chiru1016/Leet-code-Problems/tree/master/2574-left-and-right-sum-differences) |
 ## Math
