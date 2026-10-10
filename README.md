@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chiru1016/Leet-code-Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chiru1016/Leet-code-Problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/chiru1016/Leet-code-Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0414-third-maximum-number](https://github.com/chiru1016/Leet-code-Problems/tree/master/0414-third-maximum-number) |
 | [0695-max-area-of-island](https://github.com/chiru1016/Leet-code-Problems/tree/master/0695-max-area-of-island) |
 | [1480-running-sum-of-1d-array](https://github.com/chiru1016/Leet-code-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1655-distribute-repeating-integers](https://github.com/chiru1016/Leet-code-Problems/tree/master/1655-distribute-repeating-integers) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chiru1016/Leet-code-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/chiru1016/Leet-code-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chiru1016/Leet-code-Problems/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/chiru1016/Leet-code-Problems/tree/master/0414-third-maximum-number) |
 ## Stack
 |  |
 | ------- |
