@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chiru1016/Leet-code-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/chiru1016/Leet-code-Problems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/chiru1016/Leet-code-Problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/chiru1016/Leet-code-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chiru1016/Leet-code-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/chiru1016/Leet-code-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chiru1016/Leet-code-Problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/chiru1016/Leet-code-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1655-distribute-repeating-integers](https://github.com/chiru1016/Leet-code-Problems/tree/master/1655-distribute-repeating-integers) |
 ## Dynamic Programming
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/chiru1016/Leet-code-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1655-distribute-repeating-integers](https://github.com/chiru1016/Leet-code-Problems/tree/master/1655-distribute-repeating-integers) |
 ## Bitmask
 |  |
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/chiru1016/Leet-code-Problems/tree/master/0334-increasing-triplet-subsequence) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/chiru1016/Leet-code-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
