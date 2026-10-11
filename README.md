@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/chiru1016/Leet-code-Problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/chiru1016/Leet-code-Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chiru1016/Leet-code-Problems/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/chiru1016/Leet-code-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/chiru1016/Leet-code-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/chiru1016/Leet-code-Problems/tree/master/0414-third-maximum-number) |
 | [0695-max-area-of-island](https://github.com/chiru1016/Leet-code-Problems/tree/master/0695-max-area-of-island) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/chiru1016/Leet-code-Problems/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/chiru1016/Leet-code-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/chiru1016/Leet-code-Problems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/chiru1016/Leet-code-Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/chiru1016/Leet-code-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/chiru1016/Leet-code-Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
