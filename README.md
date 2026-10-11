@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/chiru1016/Leet-code-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/chiru1016/Leet-code-Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/chiru1016/Leet-code-Problems/tree/master/0012-integer-to-roman) |
+| [0263-ugly-number](https://github.com/chiru1016/Leet-code-Problems/tree/master/0263-ugly-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/chiru1016/Leet-code-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chiru1016/Leet-code-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/chiru1016/Leet-code-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
